@@ -39,3 +39,8 @@ http://architects.dzone.com/articles/mqtt-over-websockets
 
 http://www.blogjava.net/yongboy/archive/2014/05/26/414130.html
 
+
+
+
+https://www.google.com.hk/search?q=MQTT+over+Websocket+%E6%B5%8B%E8%AF%95&newwindow=1&safe=strict&es_sm=119&ei=QR_fU57dEYGHuASv34L4BA&start=10&sa=N&biw=1280&bih=679
+
